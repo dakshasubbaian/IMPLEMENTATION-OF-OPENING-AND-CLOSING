@@ -46,7 +46,7 @@ image = np.zeros((500, 500, 3), dtype=np.uint8)
 font = cv2.FONT_HERSHEY_SIMPLEX
 cv2.putText(
     image,
-    'Open and Close',
+    'DAKSHA SUBBAIAN',
     (100, 250),
     font,
     1,
@@ -97,10 +97,12 @@ plt.show()
 ```
 
 ## Output
+<img width="610" height="611" alt="image" src="https://github.com/user-attachments/assets/0b438886-00d1-4805-b8e6-bff89a4a47b4" />
 
-<img width="482" height="510" alt="image" src="https://github.com/user-attachments/assets/95b98922-35d6-4312-b92e-aa47ed91654f" />
+<img width="480" height="513" alt="image" src="https://github.com/user-attachments/assets/275038b7-7296-439a-871e-72503ca28a12" />
 
-<img width="477" height="507" alt="image" src="https://github.com/user-attachments/assets/e035299d-17d0-413b-b536-2154adaf0bfa" />
+<img width="483" height="506" alt="image" src="https://github.com/user-attachments/assets/030dff3a-4def-4a33-90ed-e9030b7beac7" />
+
 
 ## Result
 
